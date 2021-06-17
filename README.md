@@ -4,8 +4,8 @@ Docker Image 1 : Django-App and Gunicorn running on port-8000
 Docker Image 2: Nginx running as reverse proxy on port-80
 
 To Start the project:
-#git clone github.com/ajaysiva07/django-gunicorn-nginx-docker-compose-starter.git
-#cd django-gunicorn-nginx-docker-compose-starter
-#docker-compose up -d
+# git clone github.com/ajaysiva07/django-gunicorn-nginx-docker-compose-starter.git
+# cd django-gunicorn-nginx-docker-compose-starter
+# docker-compose up -d
 
 Hola!

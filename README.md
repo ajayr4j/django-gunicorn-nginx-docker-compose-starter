@@ -1,4 +1,4 @@
-FYI: This works better only in linux as gunicorn is a part of it.
+> FYI: This works better only in linux as gunicorn is a part of it.
 
 Docker Image 1 : Django-App and Gunicorn running on port-8000
 Docker Image 2: Nginx running as reverse proxy on port-80

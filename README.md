@@ -1,6 +1,6 @@
 > FYI: It's OS Independant!
 
-**Breif:**
+**Brief:**
 
 - Docker Image 1 : Django-App and Gunicorn running on port-8000
 - Docker Image 2: Nginx running as reverse proxy on port-80
